@@ -38,7 +38,7 @@ Sistem penilaian mahasiswa sederhana yang memungkinkan input data mahasiswa, men
 
 ```bash
 # Clone repository (jika menggunakan git)
-git clone <https://github.com/Ballon14/py-psi.git
+git clone https://github.com/Ballon14/py-psi.git
 cd py-psi
 
 # Atau download file main.py secara langsung
